@@ -1,3 +1,4 @@
-# web_design_practice
+# UI and UX design practice
 
+## Here is the demo interface
 ![demo](./demo.gif)
